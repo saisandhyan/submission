@@ -91,4 +91,4 @@ How will leadership successors be chosen?
 The leadership successors are chosen by there interest and active participation in their work-based and mostly it depends on how they are handling or they are treating them and whether they are sharing all the information and some more will be considered.
 
 How will you handover to new community leaders?
-When my turn is getting to complete at that time before 1-2 months we will be getting the new community lead and also she will be in that community as a member of 1 year in that while we are being as a lead  and she will be taught everything and the process will be continued and after giving the whole content only we will be handover the community to the new leaders.
+When our turn is getting to complete at that time before 1-2 months we will be getting the new community lead and also she will be in that community as a member of 1 year in that while we are being as a lead  and she will be taught everything and the process will be continued and after giving the whole content only we will be handover the community to the new leaders.
