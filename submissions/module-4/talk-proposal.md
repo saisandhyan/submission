@@ -50,5 +50,6 @@ Imagine you're at a conference and your talk has been accepted. At the same time
 Your abstract should be between 150-200 words as 1-2 paragraphs.
 
 Android is a software stack for mobile devices that includes an operating system, middleware and key applications.  Android is a software platform and operating system for mobile devices based on the Linux operating system and developed by Google and the Open Handset Alliance. It allows developers to write managed code in a Java-like language that utilizes Google-developed Java libraries, but does not support programs developed in native code.
+
 The unveiling of the Android platform on 5 November 2007 was announced with the founding of the Open Handset Alliance, a consortium of 34 hardware, software and telecom   companies devoted   to   advancing   open   standards   for   mobile devices.   When released in 2008, most of the Android platform will be made available under the Apache free-software and open-source license.
 
