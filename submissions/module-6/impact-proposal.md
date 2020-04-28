@@ -16,27 +16,41 @@ This is more long term - 3, 5 or 10 years. The following pieces might help stren
 ***Activities***:  Start to learn, don't be afraid of the past experience, contribute back to the community!
 
 ****Proposal****
+
 What are the different activities you need to do to solve your community's shared struggles? For each item, don't forget to mention:
 
 What problems it solves
+
 How the activity directly impacts the problem
+
 How you'll make sure it is successful
+
 ****Resources****
+
 What resources do you need to accomplish your proposal? Resources could be space, funds, or equipment.
+
 How will you obtain those resources?
+
 How many other people do you need to support you in delivering this proposal? Will they need specific roles or skills?
+
 How will you find these people?
+
 ****Timeline****
-Provide a detailed, broken-down timeline of what needs to be done to make your proposal successful. It should detail who should do the task, and when.
+
+Provide a detailed, broken-down timeline of what needs to be done to make your proposal successful. It should detail who should do the 
+task, and when.
+
 
 ****Planning for the Future****
-In this section, think about how your efforts can expand through your time as a Campus Expert. Some questions you can answer that might help strengthen this section are:
+
+In this section, think about how your efforts can expand through your time as a Campus Expert. Some questions you can answer that might 
+help strengthen this section are:
 
 When will you review the impact of your proposal?
 Once the courses finished
 
 How will you measure success?
- if we'll get new students to join core membersthen we can measure success.
+if we'll get new students to join core membersthen we can measure success.
 
 How frequently will you iterate on your community plans?
 Every two weeks or one month
