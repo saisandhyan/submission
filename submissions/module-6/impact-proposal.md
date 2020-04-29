@@ -20,14 +20,25 @@ This is more long term - 3, 5 or 10 years. The following pieces might help stren
 
 What are the different activities you need to do to solve your community's shared struggles? For each item, don't forget to mention:
 
-What problems it solves
 ->
+Activities solving community struggles:
+1. Violated community code of conduct
+2. Team collaboration in the task.
+3. Motivating the students to participate in the events.
+4. Encouraging new coordinators .
 
-How the activity directly impacts the problem
+What problems it solves and How the activity directly impacts the problem
+
 ->
+1. It makes every member to follow the guidelines of community with makes them more disciplined
+2. Increase team communication and strong communication in the group.
+3. Encouraging new concepts of idea to make the students more favor with programming skills.
+4. Makes the new persons from all years to handle the. Events and host the event's which increase leadership qualities.
+5.Conducting many competitions,programs to get them interested and to shine them.
 
 How you'll make sure it is successful
-->
+
+->At the end of the activity we directly know the result of that and even with that feedback we can make more better.
 
 ****Resources****
 
