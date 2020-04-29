@@ -1,4 +1,5 @@
-Explaining git concepts
+**Explaining git concepts**
+
 In this exercise, you will write an explanation for various git concepts.
 
 Don't assume any prior knowledge of git: imagine you are explaining these concepts to a brand new software developer. Because of this, try not to use jargon.
