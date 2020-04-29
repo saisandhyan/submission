@@ -9,7 +9,7 @@ Provide a summary of what you believe your community's shared struggles to be, c
 ****What does your community look like once it's shared struggles are solved?****
 This is more long term - 3, 5 or 10 years. The following pieces might help strengthen this section:
 
-**Community demographics and inclusion**:7 core members, 20 normal members, 100% consists of Computer Science student, we core members are now trying to train the 20 new comes about git, GitHub flow, web development, Android and other essentials about contributing to the Community-Building projects.
+**Community demographics and inclusion**:7 core members, 20 normal members, 100% consists of Computer Science student, we core members are now trying to train the 20 new comes about git, GitHub flow,latest technoliges, web development, Android and other essentials about contributing to the Community-Building projects.
 
 ***Communication***: WhatsApp,Telegram,Facebook group and messenger, face to fact communication.
 
