@@ -15,31 +15,43 @@ This is more long term - 3, 5 or 10 years. The following pieces might help stren
 
 ***Activities***:  Start to learn, don't be afraid of the past experience, contribute back to the community!
 
+
 ****Proposal****
 
 What are the different activities you need to do to solve your community's shared struggles? For each item, don't forget to mention:
 
 What problems it solves
+->
 
 How the activity directly impacts the problem
+->
 
 How you'll make sure it is successful
+->
 
 ****Resources****
 
 What resources do you need to accomplish your proposal? Resources could be space, funds, or equipment.
+ -> Classroom or meeting room. 
+ ->Some helpful swags(not sure if I should call it swag), like GitHub Git cheat sheet poster and stickers.
+ ->Foods and drinks for workshop and hackathon
 
 How will you obtain those resources?
+-> Classroom or meeting room. we could bower from school.
+->Some helpful swags(not sure if I should call it swag), like GitHub Git cheat sheet poster and stickers. I already received some from Competitions, Hackthons and Workshops.
+-> Foods and drinks for workshop and hackathon. we together can buy some and for some rest of the requriments we will be reaching some sponsors.
 
 How many other people do you need to support you in delivering this proposal? Will they need specific roles or skills?
+->Teachers, we already have 7 active people as core members and few more not very active but can also help and join.
 
 How will you find these people?
+->We them in the any programs like competitions,workshops, hackathons or on any other platforms.
 
 ****Timeline****
 
 Provide a detailed, broken-down timeline of what needs to be done to make your proposal successful. It should detail who should do the 
 task, and when.
-
+->we are conducting the workshops for every 2-3 months and we are conducting a online coding competitions for every 2 weeks, but now we are trying to conduct that for every 1 week. we are going to held a hackathon may be on january.There will be many programs a head. 
 
 ****Planning for the Future****
 
@@ -47,10 +59,10 @@ In this section, think about how your efforts can expand through your time as a 
 help strengthen this section are:
 
 When will you review the impact of your proposal?
-Once the courses finished
+->Once the courses or activities are finished
 
 How will you measure success?
-if we'll get new students to join core membersthen we can measure success.
+->if we'll get new students to join core membersthen we can measure success.
 
 How frequently will you iterate on your community plans?
-Every two weeks or one month
+->Every two weeks or one month
