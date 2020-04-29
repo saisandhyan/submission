@@ -1,4 +1,5 @@
-Talk planning
+**Talk planning**
+
 Tell us a little bit about your talk:
 
 What is the topic?
@@ -29,7 +30,8 @@ Firstly, It's important to know Java because the Android applications have Java 
 Who is the intended audience in terms of skills, interests and experience?
 The intended audience for this talk is the students who are familiar with java. Because Building Android applications requires a deep knowledge of programming and design.  If you’re a web developer already, many of the concepts and technologies involved in Android development will be analogous to things you already know – although building apps for mobile devices often requires mastery of many more nuanced concepts. Java is the language that underpins all Android development. XML was created as a standard way to encode data for internet-based applications. It is a structured markup language, sharing many features in common with HTML – you may recognize the angled brackets, the <opening> and </closing> tag types, and the deep nesting of elements.SDK stands for Software Development Kit, which, though it may conjure up images of a briefcase full of spy tools, is actually just a fancy name for a set of pre-packaged code. The Android SDKs are modules of Java code that give developers access to device functions like the camera and accelerometer. One key component of the Android SDK is a library called Gradle.
 
-Early outline
+**Early outline**
+
 Write an early outline for the structure of your talk. We don't expect lots of detail, just a bullet point list of what you'll talk about, and in what order.
 ->I am talking about Android Developmet.
 -> the Specific Purpose of your speech.
@@ -39,13 +41,16 @@ Write an early outline for the structure of your talk. We don't expect lots of d
 ->Conclusion
 ->Main Points and Subpoints in Full Sentences discussion
 
-Talk proposal
-Talk title
+**Talk proposal**
+
+**Talk title**
+
 Create a short snappy title for your talk
 
 Android Development
 
-Abstract
+**Abstract**
+
 Imagine you're at a conference and your talk has been accepted. At the same time as your talk, there are two others. An abstract is your talk's elevator pitch - convince people why they should come to yours. Start with some context, a problem statement or claim, and continue into your solution and a description of what the talk will be like.
 Your abstract should be between 150-200 words as 1-2 paragraphs.
 
