@@ -1,4 +1,5 @@
-Workshop introduction
+**Workshop introduction**
+
 What is the title of your workshop?
 web Development workshop
 
@@ -8,7 +9,8 @@ All the 1st,2nd and 3rd years in the graduation and all the interested once.
 How long will your workshop be?
 It will be 5-6 days.
 
-Learning objectives
+**Learning objectives**
+
 List 2-3 learning objectives. These generally start with 'learners will understand' or 'learners can'. Remember to be realistic about what can be achieved in the length of your workshop.
 ->Understand the principles of creating an effective web page, including an in-depth consideration of information architecture.
 ->Become familiar with graphic design principles that relate to web design and learn how to implement theories into practice.
@@ -21,14 +23,16 @@ List 2-3 learning objectives. These generally start with 'learners will understa
 ->Develop basic programming skills using Javascript and jQuery.
 ->Be able to embed social media content into web pages.
 
-Assessment
+**Assessment**
+
 What will learners make to show you that they've mastered each learning objective?
 Students will develop an understanding of the formalistic aspects of design and visual communication. They will demonstrate cross-platform (web, mobile, broadcast, print) storytelling skills. They will become familiar with graphic design and/or game theory and be able to apply this theory to real-world projects. They will develop an understanding of information design and usability as it applies to interactive media projects. They will utilize coding and software tools to analyze and present data in a professional manner that could be translated into web-based or app-based media. They will write at a level suitable for a public audience in an area related to interactive media (e.g., technical writing, game writing, writing for social media, presentation of a CV) 
 
 What is the criteria for success for each objective?
 Interacting with the teachers and also being active throughout the session and also expressing there own thoughts on every topic will automatically indicate that they took the knowledge very well and they had this very good grasping power and also the session going there. The interaction plays a very important key in all the sessions because that is when we will get to know that a person is understanding all the concepts that are been taught. By doing relevant projects using the learned technology, exhibits in project expos and academic level.
 
-Activities
+**Activities**
+
 What content, exercises and support will you provide to help learners work towards the assessment? Here are some tips:
 Create discrete steps - build multiple smaller things that add up to something bigger
 Authentic - only design activities that teach skills which learners will actually use in the assessment
@@ -45,7 +49,8 @@ How will you utilise the Pain Dream Fix model in your activities?
 9. Trusting my guts
 10. A pain dream fix is a strategy used for creating great sales both physical and digital. Pain: jumping on works by risking being learner. Dream: would create a better chance of achieving tasks in stipulated time. Fix: overcome the struggles and achieve the goals.
 
-Feedback
+**Feedback**
+
 What type of feedback do you plan to give to learners?
 One of the best feedback that we can give to all the learners is analyzing the performance throughout the session and also recognizing them for there best performance. Encouraging the young learners is always a good idea because it encourages them a lot to learn more and more in the future and also it will help them to grow as an individual in any sessions in the future. Recognizing all the best performers and also not letting down the remaining performers conducting some activities in between which will make sure that every one are been interactive and also there are involved in the session and the best performance we will be given all the small swags and also gits as recognition and also the rest of them we will be giving very good feedback that they have done very well and all these resources we can provide them so that they can improve in that particular field.
 
