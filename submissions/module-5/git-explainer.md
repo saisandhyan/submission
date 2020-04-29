@@ -109,6 +109,9 @@ THE 3 GIT STATES:-
 COMMITTED
 
 1.Committed means that Git has officially taken a snapshot of the files in the staging area.
+
 2. And stored a unique index in the Git directory.
-3. The terms snapshotted and committed are very similar. 
+
+3. The terms snapshotted and committed are very similar.
+
 4. The significance of being committed is that you can now revert back to this project's current state at any time in the future.
