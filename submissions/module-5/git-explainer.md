@@ -94,22 +94,19 @@ MERGE CONFLICTS
 
 THE 3 GIT STATES:-
     The working directory, staging area, and the git directory.
-    
-    
-	MODIFIED
+   
+ MODIFIED
 		1. Git views untracked and modified files similarly. 
 		2. Untracked means that the file is new to your Git project.
 		3. Modified means that the file has been seen before, but has been changed, so is not ready to be snapshotted by Git.
 		4. Modification of a file occurs in your working directory.
 		
-		
-	STAGING
+ STAGING
 		1. When a file becomes staged, it's taken into the staging area.
 		2.  This is where Git is able to take a snapshot of it and store its current state to your local repository.
 		3.This area is also known as the Index.
 		
-		
-	COMMITTED
+COMMITTED
 		1.Committed means that Git has officially taken a snapshot of the files in the staging area.
 		2. And stored a unique index in the Git directory.
 		3. The terms snapshotted and committed are very similar. 
